@@ -17,6 +17,7 @@ After installation of RELACS, please follow the instructions to configure dynami
 
 ## Building
 
+The project also involves some tests and executables that can be build via
 ```bash
 mkdir build
 cd build 
